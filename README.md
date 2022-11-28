@@ -34,7 +34,6 @@
 <p><a href="https://github.com/Paulo-Murilo-Dev"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Murilo-Dev&layout=compact&langs_count=7&theme=dark" alt="Paulu-Dev"></a></p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Murilo-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Paulo-Murilo-Dev/" /> </p>
 <!--
 **Paulo-Murilo-Dev/Paulo-Murilo-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
