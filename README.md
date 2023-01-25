@@ -1,10 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Meu+nome+%C3%A9+Paulo.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+desenvolvedor+back-end+júnior.)](https://git.io/typing-svg)
 
 
-#### 📝 ~~Atualmente estou estudando para entrar em uma faculdade de engenharia de software.~~ Estudando Engenharia de Software.
+#### 📝 ~~Estudando para entrar em uma faculdade de engenharia de software.~~ Estudando Engenharia de Software.
 #### ⚡ Trabalhando atualmente em: *Game ARG em python*.
 #### ☕ Coffe lover <3
-#### 🛡  cyber security fanatic.
+#### 🔒 Cyber security fanatic.
 
 ## 💫 Skills 
 
