@@ -1,9 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Meu+nome+%C3%A9+Paulo.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+desenvolvedor+back-end+trainee.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Meu+nome+%C3%A9+Paulo.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+desenvolvedor+back-end+júnior.)](https://git.io/typing-svg)
 
 
 #### 📝 ~~Atualmente estou estudando para entrar em uma faculdade de engenharia de software.~~ Estudando Engenharia de Software.
-#### ⚡ Trabalhando atualmente em: *Artigo do medium sobre infosec*.
-#### ☕ Coffe love <3
+#### ⚡ Trabalhando atualmente em: *Game ARG em python*.
+#### ☕ Coffe lover <3
+#### 🛡  cyber security fanatic.
 
 ## 💫 Skills 
 
