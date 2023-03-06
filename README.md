@@ -2,9 +2,10 @@
 
 
 #### 📝 ~~Estudando para entrar em uma faculdade de engenharia de software.~~ Estudando Engenharia de Software.
-#### ⚡ Trabalhando atualmente em: *Game ARG em python*.
+#### ⚡ Trabalhando atualmente em: *Projeto de análise de dados do mercado cripto em python*.
 #### ☕ Coffe lover <3
 #### 🔒 Cyber security fanatic.
+#### 🐧 Linux full CLI.
 
 ## 💫 Skills 
 
