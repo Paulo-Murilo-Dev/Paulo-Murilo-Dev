@@ -36,22 +36,21 @@
 <div align='center'>
 <p><a href="[https://github.com/Paulo-Murilo-Dev](https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru)"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
 
-   (  )   (   )  )
-     ) (   )  (  (
-     ( )  (    ) )
-     _____________
-    <_____________> ___
-    |             |/ _ \
-    |               | | |
-    |               |_| |
- ___|             |\___/
-/    \___________/    \
-\_____________________/
 
-~ ASCII <3
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Murilo-Dev&layout=compact&langs_count=7&theme=dark" alt="Paulu-Dev"></a></p>
 </div>
-<!--
 
--->
+ ‎ ‎( ‎ ‎) ‎ ‎ ‎( ‎ ‎ ‎) ‎ ‎)
+ ‎  ‎) ‎( ‎ ‎ ‎) ‎ ‎( ‎ ‎(
+ ‎ ‎ ‎( ‎) ‎ ‎( ‎ ‎ ‎) ‎)
+ ‎ ‎ ‎ ‎ ‎_____________
+ ‎ ‎ ‎ ‎<_____________> ‎___
+ ‎ ‎ ‎ ‎| ‎ ‎ ‎ ‎ ‎‎ ‎|/ ‎_ ‎\
+ ‎ ‎ ‎ ‎| ‎ ‎ ‎ ‎‎‎ ‎  ‎| ‎| ‎|
+ ‎ ‎ ‎ ‎| ‎ ‎ ‎ ‎‎ ‎ ‎ ‎|_| ‎|
+ ‎___| ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎|\___/
+/ ‎ ‎ ‎ ‎\___________/‎\
+\_____________________/
+
+~ ASCII <3
