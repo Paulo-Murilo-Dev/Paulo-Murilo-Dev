@@ -3,7 +3,7 @@
 
 #### 📝 ~~Estudando para entrar em uma faculdade federal.~~ Estudando 1 Semestre de Sistemas p/ Internet no IF-SP.
 #### ⚡ Trabalhando atualmente em: *Projeto de análise de dados do mercado cripto em python*.
-#### ☕ Odeio java mas amo Café.
+#### ☕ Odeio java mas, amo Café.
 #### 🔒 Cyber security fanatic.
 #### 🐧 Linux full CLI.
 
