@@ -54,4 +54,4 @@
 /    \___________/    \
 \_____________________/ -->
 
-~ ASCII <3 (Look in the code of the readme)
+~ ASCII <3 (Look in the code of readme)
