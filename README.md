@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Meu+nome+%C3%A9+Paulo.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+desenvolvedor+back-end+júnior.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Meu+nome+%C3%A9+Paulo.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+cara+que+gosta+de+TI.)](https://git.io/typing-svg)
 
 
 #### 📝 ~~Estudando para entrar em uma faculdade federal.~~ Sofrendo no 3° Semestre de Sistemas p/ Internet no IF-SP.
