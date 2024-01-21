@@ -1,11 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Meu+nome+%C3%A9+Paulo.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+desenvolvedor+back-end+júnior.)](https://git.io/typing-svg)
 
 
-#### 📝 ~~Estudando para entrar em uma faculdade federal.~~ Estudando 1 Semestre de Sistemas p/ Internet no IF-SP.
-#### ⚡ Trabalhando atualmente em: *Projeto de análise de dados do mercado cripto em python*.
-#### ☕ Odeio java mas, amo Café.
+#### 📝 ~~Estudando para entrar em uma faculdade federal.~~ Sofrendo no 3° Semestre de Sistemas p/ Internet no IF-SP.
+#### ⚡ Trabalhando atualmente em: *Servidor NAS-Lab-Anom-Mine unificado com meu desktop*.
+#### ☕ Java hater.
 #### 🔒 Cyber security fanatic.
-#### 🐧 Linux full CLI.
+#### 🐧 I use Arch BTW!
 
 ## 💫 Skills 
 
