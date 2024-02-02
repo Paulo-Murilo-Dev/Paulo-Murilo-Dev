@@ -10,9 +10,11 @@
 
 #### ✉️ dev.paulo.murilo42@gmail.com 
 
-## 💫 Skills 
+### 💫 Skills 
 
 <div align='center'>
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 <p><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
@@ -35,7 +37,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
  
-
+<!--
 <div align='center'>
 <p><a href="[https://github.com/Paulo-Murilo-Dev](https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru)"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
 
@@ -44,7 +46,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Murilo-Dev&layout=compact&langs_count=7&theme=dark" alt="Paulu-Dev"></a></p>
 </div>
 
-<!--
+
    (  )   (   )  )
      ) (   )  (  (
      ( )  (    ) )
