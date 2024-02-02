@@ -6,7 +6,9 @@
 #### ☕ Java hater.
 #### 🔒 Cyber security fanatic.
 #### 😎 I use Arch BTW!
-#### ✨️42.
+#### ✨️ 42.
+
+#### ✉️ dev.paulo.murilo42@gmail.com 
 
 ## 💫 Skills 
 
