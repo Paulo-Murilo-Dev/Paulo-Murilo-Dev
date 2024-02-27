@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Seja+muito+bem+vindo!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+cara+que+gosta+de+TI.)](https://git.io/typing-svg)
 
 
-#### 📝 ~~Estudando para entrar em uma faculdade federal.~~ Sofrendo no 3° Semestre de Sistemas p/ Internet no IF-SP.
+#### 📝 Sofrendo no 3° Semestre de Sistemas p/ Internet no IF-SP.
 #### ⚡ Trabalhando atualmente em: *Servidor NAS-Lab-Anom-Mine unificado com meu desktop*.
 #### ☕ Java hater.
 #### 🔒 Cyber security fanatic.
@@ -9,7 +9,7 @@
 #### ✨️ 42.
 
 #### ✉️ dev.paulo.murilo42@gmail.com 
-
+#### - Sou o cara que da primeira vez faz a tarefa, da segunda se entedia com a tarefa, e na terceira estarei criando um robô para fazer a tarefa enquanto eu tomo um delicioso café.
 ### 💫 Skills 
 
 <div align='center'>
