@@ -5,7 +5,7 @@
 #### ⚡ Projetinho atual: *Tentando criar um blog para postar os meus artigos antigos*.
 #### 👨‍🏫 Trabalhando com: Ensinando informática para o ensino fundamental.
 #### ☕ Ok talvez eu goste um pouco de java.
-#### 🇧🇷 Profile in English is a tchola thing!!! wtf is a government without corruption????!!! 🇧🇷🦜⚽
+#### 🇧🇷 Profile in english is a tchola thing!!! wtf is a government without corruption????!!! 🇧🇷🦜⚽
 #### 🔒 Cyber security fanatic.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
