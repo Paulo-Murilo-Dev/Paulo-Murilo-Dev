@@ -2,8 +2,10 @@
 
 
 #### 📝 Sofrendo no 3° Semestre de Sistemas p/ Internet no IF-SP.
-#### ⚡ Trabalhando atualmente em: *Servidor NAS-Lab-Anom-Mine unificado com meu desktop*.
-#### ☕ Java hater.
+#### ⚡ Projetinho atual: *Tentando criar um blog para postar os meus artigos antigos*.
+#### 👨‍🏫 Trabalhando com: Ensinando informática para o ensino fundamental.
+#### ☕ Ok talvez eu goste um pouco de java.
+#### 🇧🇷 Profile in English is a tchola thing!!! wtf is a government without corruption????!!! 🇧🇷🦜⚽
 #### 🔒 Cyber security fanatic.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
@@ -59,4 +61,4 @@
 /    \___________/    \
 \_____________________/ -->
 
-~ ASCII <3 (Look in readme file)
+~ ASCII ART <3 (Look in readme file)
