@@ -2,10 +2,10 @@
 
 
 #### 📝 Sofrendo no 3° Semestre de Sistemas p/ Internet no IF-SP.
-#### ⚡ Projetinho atual: *Tentando aprender a usar o VIM*.
+#### ⚡ Projetinho atual: *TPJ B.M.O com ESP32*.
 #### 👨‍🏫 Trabalhando com: Ensinando informática para o ensino fundamental.
 #### ☕ Ok talvez eu goste um pouco de java.
-#### 🇧🇷 Profile in english is a tchola thing!!! wtf is a government without corruption????!!! 🇧🇷🦜⚽
+#### 🇧🇷 Wtf is a government without corruption????!!! 🇧🇷🦜⚽
 #### 🔒 Cyber security fanatic.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
