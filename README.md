@@ -11,7 +11,7 @@
 #### ✨️ 42.
 
 #### ✉️ dev.paulo.murilo42@gmail.com 
-#### - Sou o cara que da primeira vez faz a tarefa, da segunda se entedia com a tarefa, e na terceira estarei criando um robô para fazer a tarefa enquanto eu tomo um delicioso café.
+#### - Eu faço software, as vezes é bom, as vezes é ruim, mas sempre é livre!
 ### 💫 Skills 
 
 <div align='center'>
