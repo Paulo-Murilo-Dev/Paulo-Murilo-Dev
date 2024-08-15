@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
  
-<!--
+
 <div align='center'>
 <p><a href="[https://github.com/Paulo-Murilo-Dev](https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru)"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
 
@@ -47,6 +47,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Murilo-Dev&layout=compact&langs_count=7&theme=dark" alt="Paulu-Dev"></a></p>
 </div>
+<!--
 
 
    (  )   (   )  )
