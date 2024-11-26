@@ -2,7 +2,7 @@
 
 
 #### 📝 Sofrendo no 4° Semestre de Sistemas p/ Internet no IF-SP.
-#### ⚡ Projetinho atual: *Criação de site freelancer!*.
+#### ⚡ Projetinho atual: *Aquele maldito TCC*.
 #### 👨‍🏫 Trabalhando com: Ensinando informática para o ensino fundamental.
 #### ☕ Ok talvez eu goste um pouco de java.
 #### 🇧🇷 Wtf is a government without corruption????!!! 🇧🇷🦜⚽
