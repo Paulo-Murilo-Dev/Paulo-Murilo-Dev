@@ -1,17 +1,18 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+world!+Seja+muito+bem+vindo!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=Sou+um+cara+que+gosta+de+TI.)](https://git.io/typing-svg)
+readme = """
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+World!+Welcome!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=I'm+someone+who+loves+IT.)](https://git.io/typing-svg)
 
-
-#### 📝 Sofrendo no 4° Semestre de Sistemas p/ Internet no IF-SP.
-#### ⚡ Projetinho atual: *Aquele maldito TCC*.
-#### 👨‍🏫 Trabalhando com: Ensinando informática para o ensino fundamental.
-#### ☕ Ok talvez eu goste um pouco de java.
+#### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
+#### ⚡ Current project: *TDK*.
+#### 👨‍🏫 Working as: IT teacher for elementary school students.
+#### ☕ Okay, maybe I like Java a little bit.
 #### 🇧🇷 Wtf is a government without corruption????!!! 🇧🇷🦜⚽
 #### 🔒 Cyber security fanatic.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
 
 #### ✉️ dev.paulo.murilo42@gmail.com 
-#### - Eu faço software, as vezes é bom, as vezes é ruim, mas sempre é livre!
+#### - I create software, sometimes it's good, sometimes it's bad, but it's always free!
+
 ### 💫 Skills 
 
 <div align='center'>
@@ -42,8 +43,6 @@
 
 <div align='center'>
 <p><a href="[https://github.com/Paulo-Murilo-Dev](https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru)"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Murilo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
-
-
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Murilo-Dev&layout=compact&langs_count=7&theme=dark" alt="Paulu-Dev"></a></p>
 </div>
@@ -55,11 +54,11 @@
      ( )  (    ) )
      _____________
     <_____________> ___
-    |             |/ _ \
+    |             |/ _ \\
     |               | | |
     |               |_| |
- ___|             |\___/
-/    \___________/    \
-\_____________________/ -->
-
-~ ASCII ART <3 (Look in readme file)
+ ___|             |\\___/
+\\    \\___________/    \\
+ \\_____________________/
+-->
+"""
