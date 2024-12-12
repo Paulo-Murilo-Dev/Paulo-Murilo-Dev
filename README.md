@@ -1,4 +1,3 @@
-readme = """
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+World!+Welcome!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=I'm+someone+who+loves+IT.)](https://git.io/typing-svg)
 
 #### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
@@ -61,4 +60,4 @@ readme = """
 \\    \\___________/    \\
  \\_____________________/
 -->
-"""
+
