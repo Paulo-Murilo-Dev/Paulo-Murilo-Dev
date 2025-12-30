@@ -8,7 +8,7 @@
 #### ✨️ 42.
 
 #### ✉️ dev.paulo.murilo42@gmail.com 
-#### - Opensource comunity <3
+#### - Open-source comunity <3
 
 ### 💫 Skills 
 
