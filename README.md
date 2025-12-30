@@ -1,16 +1,14 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+World!+Welcome!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=I'm+someone+who+loves+IT.)](https://git.io/typing-svg)
 
 #### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
-#### ⚡ Current project: *Minecraft chat plugin in Java*.
-#### 👨‍🏫 Working as: IT teacher for elementary school students.
-#### ☕ Okay, maybe I like Java a little bit.
-#### 🇧🇷 Wtf is a government without corruption????!!! 🇧🇷🦜⚽
-#### 🔒 Cyber security fanatic.
+#### ⚡ Current project: *My personal indie-web site*.
+#### 👨‍🏫 Working as: Remote Trainee - Move&duca
+#### 🔒 Cyber security.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
 
 #### ✉️ dev.paulo.murilo42@gmail.com 
-#### - I create software, sometimes it's good, sometimes it's bad, but it's always free!
+#### - Opensource comunity <3
 
 ### 💫 Skills 
 
