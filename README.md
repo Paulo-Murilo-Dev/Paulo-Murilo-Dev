@@ -40,11 +40,6 @@
 
 <div align='center'>
 
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Murilo-Dev&layout=compact&langs_count=7&theme=dark" alt="Paulu-Dev"></a></p>
-</div>
-<!--
-
 
    (  )   (   )  )
      ) (   )  (  (
@@ -57,5 +52,5 @@
  ___|             |\\___/
 \\    \\___________/    \\
  \\_____________________/
--->
+
 
