@@ -2,7 +2,7 @@
 
 #### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
 #### ⚡ Current project: *My personal indie-web site*.
-#### 👨‍🏫 Working as: Remote Trainee - Move&duca
+#### 👨‍🏫 Working as: Systems Process Analyst - DW Corp
 #### 🔒 Cyber security.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
