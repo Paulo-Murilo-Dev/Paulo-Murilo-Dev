@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello+World!+Welcome!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=2000&pause=15000&color=5BF000&width=500&lines=I'm+someone+who+loves+IT.)](https://git.io/typing-svg)
 
-#### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
-#### ⚡ Current project: *Time/work tracker with a dashboard*.
+#### 📝 Struggling Internet Systems at IF-SP - 99.9% complete... 
+#### ⚡ Current project: *Personal bot for my homeserver (Yes, its Arch btw)*.
 #### 👨‍🏫 Working as: Systems Process Analyst - DW Corp
 #### 🔒 Cyber security.
 #### 😎 I use Arch BTW!
