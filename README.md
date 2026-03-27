@@ -3,7 +3,7 @@
 #### 📝 Struggling Internet Systems at IF-SP - 99.9% complete... 
 #### ⚡ Current project: *Personal bot for my homeserver (Yes, its Arch btw)*.
 #### 👨‍🏫 Working as: Systems Process Analyst - DW Corp
-#### 🔒 Cyber security.
+#### 🔒 Cyber security enthusiast.
 #### 😎 I use Arch BTW!
 #### ✨️ 42.
 
